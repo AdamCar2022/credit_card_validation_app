@@ -374,7 +374,6 @@ class AddCardScreen extends StatelessWidget {
                   child: Column(
                     mainAxisSize: MainAxisSize.min,
                     children: [
-                      // Scan Card Button
                       SizedBox(
                         width: double.infinity,
                         child: ElevatedButton.icon(
